@@ -4,7 +4,7 @@
 
 ### The Command Line
 
-The command line/terminal is your machines text base interface. In the previous courses we courses, the commands line have been covered. its is always useful to review. 
+The command line/terminal is your machines text base interface. In the previous courses, the commands line have been covered. Its is always useful to review. This section I have added a few commands that I think will be useful. 
 
 ### Useful Notes
 
