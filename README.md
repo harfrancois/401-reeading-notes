@@ -1,7 +1,7 @@
 # 401-reeading-notes
 
 
-![Image](./me.jpeg)
+![Image](./img/me.jpeg)
 ## Harvey Francois
 ## Code Fellows
 ### Code 401 Python - Advanced Software Development
@@ -14,3 +14,5 @@
 - [GitHub Pages](https://github.com/harfrancois/401-reeading-notes)
 
 - [The Command Line](./terminal.md)
+
+- [Introduction to SQL](./SQL.md)

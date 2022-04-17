@@ -4,17 +4,18 @@
 
 ### The Command Line
 
-The command line/terminal is your machines text base interface. In the previous courses, the commands line have been covered. Its is always useful to review. This section I have added a few commands that I think will be useful. 
+The command line/terminal is your machines text base interface. In the previous courses, the commands line have been covered. Its is always useful to review. This section I have added a few commands that I think will be useful.
 
 ### Useful Notes
 
-pwd (Print Working Directory) 
+pwd (Print Working Directory)
 ls (List the contents of a directory.)
 cd (Change Directories)
 ls -a (List the contents of a directory, including hidden files.)
 
 Search for a command:
-- man - 
+
+- man -
 Look up the manual page for a particular command.
 - man -k  < search term >
 Do a keyword search for all manual pages containing the given search term.
@@ -33,12 +34,14 @@ cp (source space destination) Copy a file and past it to a location, or mv to mo
 
 rm (name) Remove a file.
 
-
 ### Cheat Sheet
-https://ryanstutorials.net/linuxtutorial/cheatsheet.php
+
+<https://ryanstutorials.net/linuxtutorial/cheatsheet.php>
 
 ## Table Of Contents
 
 - [GitHub Pages](https://github.com/harfrancois/401-reeading-notes)
 
 - [The Command Line](./terminal.md)
+
+- [Introduction to SQL](./SQL.md)
