@@ -1,6 +1,6 @@
 # Introduction to SQL
 
-Source 
+Source
 - https://sqlbolt.com/lesson/select_queries_introduction
 - https://landing.chartio.com/download-learn-sql
 
@@ -229,10 +229,4 @@ Select query with constraints
     1 DROP TABLE IF EXISTS Movies;
     2 DROP TABLE IF EXISTS BoxOffice;
 
-## Table Of Contents
-
-- [GitHub Pages](https://github.com/harfrancois/401-reeading-notes)
-
-- [The Command Line](./terminal.md)
-
-- [Introduction to SQL](./SQL.md)
+[BACK TO MAIN](./README.md)

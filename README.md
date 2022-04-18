@@ -16,3 +16,5 @@
 - [The Command Line](./terminal.md)
 
 - [Introduction to SQL](./SQL.md)
+
+- [Prep Your Mindset](./mindset.md)

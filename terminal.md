@@ -38,10 +38,4 @@ rm (name) Remove a file.
 
 <https://ryanstutorials.net/linuxtutorial/cheatsheet.php>
 
-## Table Of Contents
-
-- [GitHub Pages](https://github.com/harfrancois/401-reeading-notes)
-
-- [The Command Line](./terminal.md)
-
-- [Introduction to SQL](./SQL.md)
+[BACK TO MAIN](./README.md)
