@@ -18,3 +18,5 @@
 - [Introduction to SQL](./SQL.md)
 
 - [Prep Your Mindset](./mindset.md)
+
+- [Reading 1](./reading-1.md)
