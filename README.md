@@ -20,3 +20,5 @@
 - [Prep Your Mindset](./mindset.md)
 
 - [Reading 1](./reading-1.md)
+
+- [Reading 2](./reading-2.md)
