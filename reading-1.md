@@ -1,4 +1,4 @@
-# Read: Class 01
+# Reading 1
 
 ## Pain vs. Suffering
 
